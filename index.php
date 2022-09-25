@@ -1,0 +1,2 @@
+<?php
+    acho "Hello,world!";
